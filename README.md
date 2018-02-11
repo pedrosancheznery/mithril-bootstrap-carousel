@@ -20,5 +20,7 @@ module.exports = {
 
 ## Options
 images: An array of image object where only **path** is required.
+
 indicator: Boolean to display or not the indicators.
+
 control: Boolean to display or not the controls.
