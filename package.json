@@ -1,0 +1,16 @@
+{
+  "name": "mithril-bootstrap-carousel",
+  "version": "0.0.1",
+  "description": "Mithril component for a bootsrap image carousel",
+  "main": "mithril-carousel.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "mithril",
+    "bootstrap",
+    "carousel"
+  ],
+  "author": "Pedro Sanchez Nery",
+  "license": "MIT"
+}
